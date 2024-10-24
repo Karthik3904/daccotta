@@ -1,4 +1,6 @@
-# 🌟 **Daccotta** 🌟
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%8C%9F+Daccotta+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+</div>
 
 **A Social Network for Movie Lovers**
 
